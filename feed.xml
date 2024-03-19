@@ -3,12 +3,25 @@
     <title>Jefffyu</title>
     <link href="https://Jefff-yu.github.io/Jefffyu/feed.xml" rel="self" />
     <link href="https://Jefff-yu.github.io/Jefffyu" />
-    <updated>2024-03-19T21:53:33+08:00</updated>
+    <updated>2024-03-19T22:01:41+08:00</updated>
     <author>
         <name>Jefffyu</name>
     </author>
     <id>https://Jefff-yu.github.io/Jefffyu</id>
 
+    <entry>
+        <title>D1</title>
+        <author>
+            <name>Jefffyu</name>
+        </author>
+        <link href="https://Jefff-yu.github.io/Jefffyu/d1.html"/>
+        <id>https://Jefff-yu.github.io/Jefffyu/d1.html</id>
+            <category term="design"/>
+
+        <updated>2024-03-19T22:00:44+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>可以了</title>
         <author>
@@ -17,6 +30,7 @@
         <link href="https://Jefff-yu.github.io/Jefffyu/homepage.html"/>
         <id>https://Jefff-yu.github.io/Jefffyu/homepage.html</id>
         <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/1/Zhuan-Dong-Dao-Yi-Ban.png" medium="image" />
+            <category term="artwork"/>
 
         <updated>2024-03-19T21:12:33+08:00</updated>
             <summary>
