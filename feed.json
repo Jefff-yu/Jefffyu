@@ -12,15 +12,16 @@
         {
             "id": "https://Jefff-yu.github.io/Jefffyu/d1.html",
             "url": "https://Jefff-yu.github.io/Jefffyu/d1.html",
-            "title": "D1",
+            "title": "跟隨校浪芭樂散步吧！",
+            "image": "https://Jefff-yu.github.io/Jefffyu/media/posts/3/Jie-Tu-2024-03-19-Wan-Shang-10.21.12.png",
             "author": {
                 "name": "Jefffyu"
             },
             "tags": [
-                   "design"
+                   "Anthropology"
             ],
             "date_published": "2024-03-19T22:00:44+08:00",
-            "date_modified": "2024-03-19T22:01:41+08:00"
+            "date_modified": "2024-03-19T22:21:52+08:00"
         },
         {
             "id": "https://Jefff-yu.github.io/Jefffyu/homepage.html",
@@ -33,10 +34,10 @@
                 "name": "Jefffyu"
             },
             "tags": [
-                   "artwork"
+                   "Tech-Art"
             ],
             "date_published": "2024-03-19T21:12:33+08:00",
-            "date_modified": "2024-03-19T22:09:35+08:00"
+            "date_modified": "2024-03-19T22:18:32+08:00"
         }
     ]
 }

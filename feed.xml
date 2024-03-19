@@ -3,20 +3,21 @@
     <title>Jefffyu</title>
     <link href="https://Jefff-yu.github.io/Jefffyu/feed.xml" rel="self" />
     <link href="https://Jefff-yu.github.io/Jefffyu" />
-    <updated>2024-03-19T22:09:35+08:00</updated>
+    <updated>2024-03-19T22:21:52+08:00</updated>
     <author>
         <name>Jefffyu</name>
     </author>
     <id>https://Jefff-yu.github.io/Jefffyu</id>
 
     <entry>
-        <title>D1</title>
+        <title>跟隨校浪芭樂散步吧！</title>
         <author>
             <name>Jefffyu</name>
         </author>
         <link href="https://Jefff-yu.github.io/Jefffyu/d1.html"/>
         <id>https://Jefff-yu.github.io/Jefffyu/d1.html</id>
-            <category term="design"/>
+        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/3/Jie-Tu-2024-03-19-Wan-Shang-10.21.12.png" medium="image" />
+            <category term="Anthropology"/>
 
         <updated>2024-03-19T22:00:44+08:00</updated>
             <summary></summary>
@@ -30,7 +31,7 @@
         <link href="https://Jefff-yu.github.io/Jefffyu/homepage.html"/>
         <id>https://Jefff-yu.github.io/Jefffyu/homepage.html</id>
         <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/1/Jie-Tu-2023-02-25-15.52.57.png" medium="image" />
-            <category term="artwork"/>
+            <category term="Tech-Art"/>
 
         <updated>2024-03-19T21:12:33+08:00</updated>
             <summary>
