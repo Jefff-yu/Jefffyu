@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://Jefff-yu.github.io/Jefffyu/homepage-5.html",
+            "url": "https://Jefff-yu.github.io/Jefffyu/homepage-5.html",
+            "title": "不置可否",
+            "summary": "不置可否 油畫 / 91*72.5cm&nbsp; / 2020 畫布、油彩 Oil painting / 91*72.5cm /&hellip;",
+            "content_html": "\n    <h2 id=\"bu-zhi-ke-fou\">\n      不置可否\n    </h2>\n\n  <p>\n    <br><br>油畫 / 91*72.5cm&nbsp; / 2020<br>畫布、油彩\n  </p>\n\n  <p>\n    Oil painting / 91*72.5cm  / 2020<br>canva, oilpainting<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou.jpg\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://Jefff-yu.github.io/Jefffyu/media/posts/7/responsive/12Bu-Zhi-Ke-Fou-xs.jpg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/7/responsive/12Bu-Zhi-Ke-Fou-sm.jpg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/7/responsive/12Bu-Zhi-Ke-Fou-md.jpg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/7/responsive/12Bu-Zhi-Ke-Fou-lg.jpg 1024w\">\n      \n    </figure>",
+            "image": "https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou-2.jpg",
+            "author": {
+                "name": "Jefffyu"
+            },
+            "tags": [
+                   "Fine-Art"
+            ],
+            "date_published": "2024-03-26T16:41:44+08:00",
+            "date_modified": "2024-03-26T16:45:28+08:00"
+        },
+        {
             "id": "https://Jefff-yu.github.io/Jefffyu/homepage-4.html",
             "url": "https://Jefff-yu.github.io/Jefffyu/homepage-4.html",
             "title": "隨浪花昏沉",
@@ -55,7 +71,7 @@
                    "Tech-Art"
             ],
             "date_published": "2024-03-19T22:14:41+08:00",
-            "date_modified": "2024-03-26T16:27:18+08:00"
+            "date_modified": "2024-03-26T16:39:47+08:00"
         },
         {
             "id": "https://Jefff-yu.github.io/Jefffyu/d1.html",
