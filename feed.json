@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Jefffyu",
+    "title": "Jefff-Yu",
     "description": "",
     "home_page_url": "https://Jefff-yu.github.io/Jefffyu",
     "feed_url": "https://Jefff-yu.github.io/Jefffyu/feed.json",
@@ -9,6 +9,54 @@
         "name": "Jefffyu"
     },
     "items": [
+        {
+            "id": "https://Jefff-yu.github.io/Jefffyu/homepage-9.html",
+            "url": "https://Jefff-yu.github.io/Jefffyu/homepage-9.html",
+            "title": "地下室的傳說",
+            "summary": "地下室的傳說 素描 / 104*176cm&nbsp; / 2020",
+            "content_html": "\n    <h2 id=\"di-xia-shi-de-chuan-shuo\">\n      地下室的傳說\n    </h2>\n\n  <p>\n    <br>素描 / 104*176cm&nbsp; / 2020<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Jefff-yu.github.io/Jefffyu/media/posts/11/20200531_114821-2.jpeg\" height=\"2914\" width=\"4044\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://Jefff-yu.github.io/Jefffyu/media/posts/11/responsive/20200531_114821-2-xs.jpeg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/11/responsive/20200531_114821-2-sm.jpeg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/11/responsive/20200531_114821-2-md.jpeg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/11/responsive/20200531_114821-2-lg.jpeg 1024w\">\n      \n    </figure>",
+            "image": "https://Jefff-yu.github.io/Jefffyu/media/posts/11/20200531_114821.jpeg",
+            "author": {
+                "name": "Jefffyu"
+            },
+            "tags": [
+                   "Fine-Art"
+            ],
+            "date_published": "2024-03-26T17:40:12+08:00",
+            "date_modified": "2024-03-26T17:41:06+08:00"
+        },
+        {
+            "id": "https://Jefff-yu.github.io/Jefffyu/homepage-8.html",
+            "url": "https://Jefff-yu.github.io/Jefffyu/homepage-8.html",
+            "title": "夜有所夢",
+            "summary": "夜有所夢 水墨 / 90*180cm&nbsp; / 2019",
+            "content_html": "\n    <h2 id=\"ye-you-suo-meng\">\n      夜有所夢\n    </h2>\n\n  <p>\n    <br>水墨 / 90*180cm&nbsp; / 2019<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die.jpeg\" height=\"4990\" width=\"2701\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-xs.jpeg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-sm.jpeg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-md.jpeg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-lg.jpeg 1024w\">\n      \n    </figure>",
+            "image": "https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die-2.jpeg",
+            "author": {
+                "name": "Jefffyu"
+            },
+            "tags": [
+                   "Fine-Art"
+            ],
+            "date_published": "2024-03-26T17:39:16+08:00",
+            "date_modified": "2024-03-26T17:40:09+08:00"
+        },
+        {
+            "id": "https://Jefff-yu.github.io/Jefffyu/homepage-7.html",
+            "url": "https://Jefff-yu.github.io/Jefffyu/homepage-7.html",
+            "title": "Drowning in Plastic",
+            "summary": "Drowning in Plastic 版畫 / 76*52cm&nbsp; / 2019",
+            "content_html": "\n    <h2 id=\"drowning-in-plastic\">\n      Drowning in Plastic\n    </h2>\n\n  <p>\n    <br>版畫 / 76*52cm&nbsp; / 2019<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang.jpeg\" height=\"4926\" width=\"3444\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-xs.jpeg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-sm.jpeg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-md.jpeg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-lg.jpeg 1024w\">\n      \n    </figure>",
+            "image": "https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang-2.jpeg",
+            "author": {
+                "name": "Jefffyu"
+            },
+            "tags": [
+                   "Fine-Art"
+            ],
+            "date_published": "2024-03-26T17:35:44+08:00",
+            "date_modified": "2024-03-26T17:39:00+08:00"
+        },
         {
             "id": "https://Jefff-yu.github.io/Jefffyu/homepage-6.html",
             "url": "https://Jefff-yu.github.io/Jefffyu/homepage-6.html",

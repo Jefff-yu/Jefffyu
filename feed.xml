@@ -1,14 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Jefffyu</title>
+    <title>Jefff-Yu</title>
     <link href="https://Jefff-yu.github.io/Jefffyu/feed.xml" rel="self" />
     <link href="https://Jefff-yu.github.io/Jefffyu" />
-    <updated>2024-03-26T17:05:04+08:00</updated>
+    <updated>2024-03-26T17:41:06+08:00</updated>
     <author>
         <name>Jefffyu</name>
     </author>
     <id>https://Jefff-yu.github.io/Jefffyu</id>
 
+    <entry>
+        <title>地下室的傳說</title>
+        <author>
+            <name>Jefffyu</name>
+        </author>
+        <link href="https://Jefff-yu.github.io/Jefffyu/homepage-9.html"/>
+        <id>https://Jefff-yu.github.io/Jefffyu/homepage-9.html</id>
+        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/11/20200531_114821.jpeg" medium="image" />
+            <category term="Fine-Art"/>
+
+        <updated>2024-03-26T17:40:12+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/11/20200531_114821.jpeg" alt="地下室的傳說" />
+                    地下室的傳說 素描 / 104*176cm&nbsp; / 2020
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/11/20200531_114821.jpeg" class="type:primaryImage" alt="地下室的傳說" /></p>
+                
+    <h2 id="di-xia-shi-de-chuan-shuo">
+      地下室的傳說
+    </h2>
+
+  <p>
+    <br>素描 / 104*176cm&nbsp; / 2020<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/11/20200531_114821-2.jpeg" height="2914" width="4044" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://Jefff-yu.github.io/Jefffyu/media/posts/11/responsive/20200531_114821-2-xs.jpeg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/11/responsive/20200531_114821-2-sm.jpeg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/11/responsive/20200531_114821-2-md.jpeg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/11/responsive/20200531_114821-2-lg.jpeg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>夜有所夢</title>
+        <author>
+            <name>Jefffyu</name>
+        </author>
+        <link href="https://Jefff-yu.github.io/Jefffyu/homepage-8.html"/>
+        <id>https://Jefff-yu.github.io/Jefffyu/homepage-8.html</id>
+        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die-2.jpeg" medium="image" />
+            <category term="Fine-Art"/>
+
+        <updated>2024-03-26T17:39:16+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die-2.jpeg" alt="夜有所夢" />
+                    夜有所夢 水墨 / 90*180cm&nbsp; / 2019
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die-2.jpeg" class="type:primaryImage" alt="夜有所夢" /></p>
+                
+    <h2 id="ye-you-suo-meng">
+      夜有所夢
+    </h2>
+
+  <p>
+    <br>水墨 / 90*180cm&nbsp; / 2019<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die.jpeg" height="4990" width="2701" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-xs.jpeg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-sm.jpeg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-md.jpeg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-lg.jpeg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Drowning in Plastic</title>
+        <author>
+            <name>Jefffyu</name>
+        </author>
+        <link href="https://Jefff-yu.github.io/Jefffyu/homepage-7.html"/>
+        <id>https://Jefff-yu.github.io/Jefffyu/homepage-7.html</id>
+        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang-2.jpeg" medium="image" />
+            <category term="Fine-Art"/>
+
+        <updated>2024-03-26T17:35:44+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang-2.jpeg" alt="Drowning in Plastic" />
+                    Drowning in Plastic 版畫 / 76*52cm&nbsp; / 2019
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang-2.jpeg" class="type:primaryImage" alt="Drowning in Plastic" /></p>
+                
+    <h2 id="drowning-in-plastic">
+      Drowning in Plastic
+    </h2>
+
+  <p>
+    <br>版畫 / 76*52cm&nbsp; / 2019<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang.jpeg" height="4926" width="3444" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-xs.jpeg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-sm.jpeg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-md.jpeg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-lg.jpeg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>家庭樣本</title>
         <author>
