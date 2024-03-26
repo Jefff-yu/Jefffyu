@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://Jefff-yu.github.io/Jefffyu/homepage-2.html",
+            "url": "https://Jefff-yu.github.io/Jefffyu/homepage-2.html",
+            "title": "飛行/落下",
+            "summary": "飛行/落下 虛擬實境 / 依場地而定 / 2022年 木材、Unreal Engine、Oculus Quest2 Virtual Reality /&hellip;",
+            "content_html": "\n    <h2 id=\"fei-xingluo-xia\">\n      飛行/落下\n    </h2>\n\n  <p>\n    虛擬實境 / 依場地而定 / 2022年<br>木材、Unreal Engine、Oculus Quest2\n  </p>\n\n  <p>\n    Virtual Reality / dimension variable / 2022<br>Wood, Unreal Engine, Oculus Quest 2\n  </p>\n\n    <blockquote class=\"blockquote\">\n      「落下，是往地面的飛行。飛行，是往遠方的落下。」<br>\"Falling is a flying towards the ground. Flying is a falling towards the distance.\"<br>\n    </blockquote>\n\n  <p>\n    此作品藉由跳樓的想像過程，使觀者在飛行與落下間徘徊，透過觀看方向的改變感受其異同之處。所謂的方向也從來都不客觀明確，但是，若我們預設了地面的位置與重力，所有的飛行都將成為落下。意即同一件事情會因為我們自己預設的視角或立場，而改變我們賦予它的意義，也呼應「控制重心(Locus of control)」決定了人對事件的結果歸因於自身控制的行為或是外部因素的影響。<br>This artwork explores the imaginative process of falling, inviting viewers to hover between flight and descent, experiencing the differences through changes in their perspective. The concept of direction is inherently subjective and ambiguous, yet when we establish the position of the ground and the force of gravity, every flight becomes a descent. This suggests that the meaning we attribute to the same action can change based on our predetermined perspective or standpoint. It resonates with the idea of 'Locus of Control,' where individuals attribute the outcome of events to either their controlled actions or external influences.\"<br>\n  </p>\n\n  <p>\n    <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CeXEA2duTeA?si=0cUClthW4VG5GML6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></div>\n  </p>",
+            "image": "https://Jefff-yu.github.io/Jefffyu/media/posts/4/Fei-XingLuo-Xia_Shi-Ti.jpg",
+            "author": {
+                "name": "Jefffyu"
+            },
+            "tags": [
+                   "Tech-Art"
+            ],
+            "date_published": "2024-03-19T22:14:41+08:00",
+            "date_modified": "2024-03-26T15:56:56+08:00"
+        },
+        {
             "id": "https://Jefff-yu.github.io/Jefffyu/d1.html",
             "url": "https://Jefff-yu.github.io/Jefffyu/d1.html",
             "title": "跟隨校浪芭樂散步吧！",
