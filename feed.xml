@@ -3,12 +3,90 @@
     <title>Jefffyu</title>
     <link href="https://Jefff-yu.github.io/Jefffyu/feed.xml" rel="self" />
     <link href="https://Jefff-yu.github.io/Jefffyu" />
-    <updated>2024-03-26T16:45:28+08:00</updated>
+    <updated>2024-03-26T17:05:04+08:00</updated>
     <author>
         <name>Jefffyu</name>
     </author>
     <id>https://Jefff-yu.github.io/Jefffyu</id>
 
+    <entry>
+        <title>家庭樣本</title>
+        <author>
+            <name>Jefffyu</name>
+        </author>
+        <link href="https://Jefff-yu.github.io/Jefffyu/homepage-6.html"/>
+        <id>https://Jefff-yu.github.io/Jefffyu/homepage-6.html</id>
+        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/8/Shou-Qu-Jian-Ce.jpeg" medium="image" />
+            <category term="Tech-Art"/>
+
+        <updated>2024-03-26T16:56:14+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/8/Shou-Qu-Jian-Ce.jpeg" alt="&quot;Family Sample&quot;" />
+                    家庭樣本 互動裝置/依場地而定/2024年 木材、Esp32s、微型電腦、3D列印、馬達、螢幕 Interactive device / site-specific / 2024 Wood, ESP32s, microcomputers,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/8/Shou-Qu-Jian-Ce.jpeg" class="type:primaryImage" alt="&quot;Family Sample&quot;" /></p>
+                
+    <h2 id="jia-ting-yang-ben">
+      家庭樣本
+    </h2>
+
+  <p>
+    互動裝置/依場地而定/2024年<br>木材、Esp32s、微型電腦、3D列印、馬達、螢幕
+  </p>
+
+  <p>
+    Interactive device / site-specific / 2024<br>Wood, ESP32s, microcomputers, 3D printing, motors, screens
+  </p>
+
+  <p>
+    當今社會對家庭的樣貌已經有更多元的認識，但我們還是可能在不知不覺中陷入「對理想家庭關係的美好想像」之中。然而「家庭」的結構並非本質性的，而是建構式、透過實踐堆疊而成的。「家庭樣本」這件作品模擬我們腦中「強迫性的美好家庭想像」，將工廠中對產品品質控管的邏輯套用在動態的家庭關係上，從反諷的視角提醒觀眾「沒有完美的家庭，家庭也沒有一定要怎樣」，並且放下對於家庭關係「應該」和「應當」的期待。<br>
+  </p>
+
+  <p>
+    In today's society, there is a more diverse understanding of the concept of family. However, we may still unconsciously fall into the trap of "idealized family relationships." Yet, the structure of "family" is not inherent; rather, it is constructed through practice and accumulation. "Family Samples" simulates the compulsive idealized family image in our minds, applying the logic of product quality control in factories to dynamic family relationships. From a satirical perspective, it reminds the audience that "there is no perfect family, and families don't have to be a certain way," urging them to let go of expectations about how family relationships "should" or "must" be.
+  </p>
+
+  <p>
+    游覺輔、賴玟霓
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/_DSC6198.jpeg" data-size="7008x4672">
+        <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/_DSC6198-thumbnail.jpeg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/Xiao-Fang-Zi-Te-Xie.jpeg" data-size="6166x4111">
+        <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/Xiao-Fang-Zi-Te-Xie-thumbnail.jpeg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/Shou-Qu-Jian-Ce.jpeg" data-size="7008x4672">
+        <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/Shou-Qu-Jian-Ce-thumbnail.jpeg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/Zhu-Hua-Mian.jpeg" data-size="4603x6904">
+        <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/Zhu-Hua-Mian-thumbnail.jpeg" height="1152" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/Te-Xiao-Fang-Zi.jpeg" data-size="7008x4672">
+        <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/8/gallery/Te-Xiao-Fang-Zi-thumbnail.jpeg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>不置可否</title>
         <author>
@@ -16,19 +94,19 @@
         </author>
         <link href="https://Jefff-yu.github.io/Jefffyu/homepage-5.html"/>
         <id>https://Jefff-yu.github.io/Jefffyu/homepage-5.html</id>
-        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou-2.jpg" medium="image" />
+        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou.jpeg" medium="image" />
             <category term="Fine-Art"/>
 
         <updated>2024-03-26T16:41:44+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou-2.jpg" alt="不置可否" />
+                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou.jpeg" alt="不置可否" />
                     不置可否 油畫 / 91*72.5cm&nbsp; / 2020 畫布、油彩 Oil painting / 91*72.5cm /&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou-2.jpg" class="type:primaryImage" alt="不置可否" /></p>
+                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou.jpeg" class="type:primaryImage" alt="不置可否" /></p>
                 
     <h2 id="bu-zhi-ke-fou">
       不置可否
@@ -131,13 +209,13 @@
         <updated>2024-03-26T15:57:02+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/5/Chuang-Yu-Bao-Dan_Zhu-Shi-Jue.jpg" alt="&quot;Flying / Falling”" />
+                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/5/Chuang-Yu-Bao-Dan_Zhu-Shi-Jue.jpg" alt="&quot;The Bed and the Bomb”" />
                     床與爆彈 互動裝置/依場地而定/2022年 木材、氣球、鯊魚玩偶、床具組、馬達、Arduino、雙足模型 Interactive Installation / dimension variable / 2022 Materials: Wood,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/5/Chuang-Yu-Bao-Dan_Zhu-Shi-Jue.jpg" class="type:primaryImage" alt="&quot;Flying / Falling”" /></p>
+                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/5/Chuang-Yu-Bao-Dan_Zhu-Shi-Jue.jpg" class="type:primaryImage" alt="&quot;The Bed and the Bomb”" /></p>
                 
     <h2 id="chuang-yu-bao-dan">
       床與爆彈
