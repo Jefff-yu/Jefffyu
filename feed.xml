@@ -3,7 +3,7 @@
     <title>Jefff-Yu</title>
     <link href="https://Jefff-yu.github.io/Jefffyu/feed.xml" rel="self" />
     <link href="https://Jefff-yu.github.io/Jefffyu" />
-    <updated>2024-03-26T17:48:11+08:00</updated>
+    <updated>2025-08-11T13:12:35+08:00</updated>
     <author>
         <name>Jefffyu</name>
     </author>
@@ -23,7 +23,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/8/Shou-Qu-Jian-Ce.jpeg" alt="&quot;Family Sample&quot;" />
-                    家庭樣本 互動裝置/依場地而定/2024年 木材、Esp32s、微型電腦、3D列印、馬達、螢幕 Interactive device / site-specific / 2024 Wood, ESP32s, microcomputers,&hellip;
+                    家庭樣本 互動裝置/依場地而定/2024年 木材、Esp32s、微型電腦、3D列印、馬達、螢幕 當今社會對家庭的樣貌已經有更多元的認識，但我們還是可能在不知不覺中陷入「對理想家庭關係的美好想像」之中。然而「家庭」的結構並非本質性的，而是建構式、透過實踐堆疊而成的。「家庭樣本」這件作品模擬我們腦中「強迫性的美好家庭想像」，將工廠中對產品品質控管的邏輯套用在動態的家庭關係上，從反諷的視角提醒觀眾「沒有完美的家庭，家庭也沒有一定要怎樣」，並且放下對於家庭關係「應該」和「應當」的期待。 游覺輔、賴玟霓 Interactive device / site-specific / 2024 Wood,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -39,11 +39,19 @@
   </p>
 
   <p>
-    Interactive device / site-specific / 2024<br>Wood, ESP32s, microcomputers, 3D printing, motors, screens
+    當今社會對家庭的樣貌已經有更多元的認識，但我們還是可能在不知不覺中陷入「對理想家庭關係的美好想像」之中。然而「家庭」的結構並非本質性的，而是建構式、透過實踐堆疊而成的。「家庭樣本」這件作品模擬我們腦中「強迫性的美好家庭想像」，將工廠中對產品品質控管的邏輯套用在動態的家庭關係上，從反諷的視角提醒觀眾「沒有完美的家庭，家庭也沒有一定要怎樣」，並且放下對於家庭關係「應該」和「應當」的期待。<br>
   </p>
 
   <p>
-    當今社會對家庭的樣貌已經有更多元的認識，但我們還是可能在不知不覺中陷入「對理想家庭關係的美好想像」之中。然而「家庭」的結構並非本質性的，而是建構式、透過實踐堆疊而成的。「家庭樣本」這件作品模擬我們腦中「強迫性的美好家庭想像」，將工廠中對產品品質控管的邏輯套用在動態的家庭關係上，從反諷的視角提醒觀眾「沒有完美的家庭，家庭也沒有一定要怎樣」，並且放下對於家庭關係「應該」和「應當」的期待。<br>
+    游覺輔、賴玟霓
+  </p>
+
+    <h4 id="family-sample">
+      Family Sample
+    </h4>
+
+  <p>
+    Interactive device / site-specific / 2024<br>Wood, ESP32s, microcomputers, 3D printing, motors, screens
   </p>
 
   <p>
@@ -51,7 +59,23 @@
   </p>
 
   <p>
-    游覺輔、賴玟霓
+    Jeff Yu, Wenni Lai
+  </p>
+
+    <h4 id="jia-ting-sanpuru">
+      家庭サンプル
+    </h4>
+
+  <p>
+    インタラクティブ映像インスタレーション /会場により異なる / 2024年<br>木材、ESP32S、マイクロコンピューター、3Dプリント、モーター、モニター&nbsp;
+  </p>
+
+  <p>
+    現代社会では、「家庭」というものの多様なあり方が徐々に認識されつつある。 しかし私たちは、気づかぬうちに「理想的な家庭像」への執着に囚われてしまうことがある。<br>本作は、家庭という関係性は本質的なものではなく、実践の積み重ねによって構築されるものだという視点から出発している。<br>《家庭サンプル》は、私たちの中にある「強迫的な理想の家庭イメージ」を再現し、工場の製品検査に用いられる品質管理のロジックを、流動的で変化し続ける家庭関係にあてはめてみせる。<br>この風刺的な視点を通じて、「完璧な家庭なんて存在しない」、「家庭はこうあるべき、という決まりはない」というメッセージを観る者に投げかける。家庭関係に対する「こうあるべき」という期待を、少しだけ手放してみる。そんなきっかけになることを願っている。
+  </p>
+
+  <p>
+    游覺輔(Jeff Yu)、賴玟霓(Wenni Lai)
   </p>
 
   <div  class="gallery-wrapper">
@@ -84,22 +108,16 @@
     </figure>
     </div>
   </div>
+
+  <p>
+    <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/0XOYhKEs7wY?si=uIntVK0ElRflZfeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+  </p>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>跟隨校浪芭樂散步吧！</title>
-        <author>
-            <name>Jefffyu</name>
-        </author>
-        <link href="https://Jefff-yu.github.io/Jefffyu/d1.html"/>
-        <id>https://Jefff-yu.github.io/Jefffyu/d1.html</id>
-        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/3/Jie-Tu-2024-03-19-Wan-Shang-10.21.12.png" medium="image" />
-            <category term="Anthropology"/>
-
-        <updated>2023-07-19T22:00:00+08:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
     <entry>
         <title>隨浪花昏沉</title>
@@ -115,27 +133,43 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/6/Jie-Tu-2023-10-02-12.44.36.png" alt="&quot;Tossed Amidst the Waves”" />
-                    隨浪花昏沉 隨浪花昏沉 單頻道音像 / 1280*720 / 2:40 / 2023年 Tochdesigner、Ableton Live Single-channel&hellip;
+                    隨浪花昏沉 單頻道音像 / Touch Designer, Ableton Live / 2:40 / 2023年 作品源自我從新竹返鄉回到台東後的個人經歷。原以為看海能讓身心得到放鬆，卻因心中尚有未竟之事而難以真正安穩。而抵達的也並非記憶中柔軟的沙灘，而是一片冰冷粗礫的礫灘。&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/6/Jie-Tu-2023-10-02-12.44.36.png" class="type:primaryImage" alt="&quot;Tossed Amidst the Waves”" /></p>
                 
-    <h2 id="sui-lang-hua-hun-chen">
+    <h4 id="sui-lang-hua-hun-chen">
       隨浪花昏沉
-    </h2>
+    </h4>
 
   <p>
-    隨浪花昏沉<br><br>單頻道音像 / 1280*720 / 2:40 / 2023年<br>Tochdesigner、Ableton Live
+    單頻道音像 / Touch Designer, Ableton Live / 2:40 / 2023年<br><br>作品源自我從新竹返鄉回到台東後的個人經歷。原以為看海能讓身心得到放鬆，卻因心中尚有未竟之事而難以真正安穩。而抵達的也並非記憶中柔軟的沙灘，而是一片冰冷粗礫的礫灘。<br>海浪的聲音沒有帶來預期的撫慰，反而使我愈發清晰地感受到內在的拉扯。注視著濺起的浪花，那些碎裂的白色泡沫混合著回家的安心、難以言喻的惆悵，以及一種懶洋洋的疲憊感。這段經驗不是逃離，也不是安頓，而像是被潮水緩緩包圍後的昏沉，任由情緒隨著海面起伏，無力也真實地流動著。
+  </p>
+
+    <h4 id="drowsy-with-the-waves">
+      Drowsy with the Waves
+    </h4>
+
+  <p>
+    Single-channel audiovisual / TouchDesigner, Ableton Live / 2:40 / 2023
   </p>
 
   <p>
-    Single-channel audiovisual / 1280*720 / 2:40 / 2023<br>Tochdesigner, Ableton Live
+    This work stems from a personal experience after returning to my hometown Taitung from Hsinchu. I had hoped that seeing the sea would bring relaxation and ease, yet an unfinished task lingered in my mind, making it difficult to feel at peace.<br>The shore I arrived at wasn’t the soft sandy beach I had imagined, but a cold, coarse gravel coast. The sound of the waves, instead of soothing me, heightened my awareness of an inner tension. As I watched the waves crash and scatter, the white spray seemed to carry a mixture of comfort from being home, a quiet melancholy, and a sluggish kind of fatigue.<br>It was not an escape, nor a return to stability— but a kind of drowsiness, gently enveloped by the tide, allowing emotions to drift and rise with the waves: tired, weightless, but real.<br>
+  </p>
+
+    <h4 id="bo-nimadoromu">
+      波にまどろむ
+    </h4>
+
+  <p>
+    シングルチャンネル映像・音響作品 / TouchDesigner, Ableton Live / 2分40秒 / 2023年<br>
   </p>
 
   <p>
-    「隨浪花昏沉 」發想自從新竹回到家鄉台東後的經歷，原以為去看海可以讓人放鬆身心， 結果因為還有事情沒有做完，去到的海岸也並非想像中的沙灘而是礫灘。海浪聲沒有撫慰我。 我反而注視著濺起的浪花，混雜著回到家的快樂，和一些難以言說的惆悵與慵懶的氣息。<br><br>/<br><br>"Tossed Amidst the Waves"<br><br>The inspiration for "Tossed Amidst the Waves" stems from my experiences returning to my hometown, Taitung, after being in Hsinchu. Initially, I thought a visit to the sea would bring relaxation to my mind and body. However, the reality differed as there were unfinished tasks, and the coastal area I arrived at was not the sandy beach I had imagined, but rather a pebble shore. The sound of the waves did not soothe me. Instead, I found myself fixated on the splashing seafoam, a mix of the joy of returning home and an indescribable sense of melancholy and languor.
+    本作は、新竹から故郷の台東へ帰省した際の個人的な体験から生まれたものである。 海を見れば心と体がほぐれるだろうと思っていたが、頭の中にはまだ終わっていない事柄が残っていて、安らぐことができなかった。<br>たどり着いたのは、記憶の中にある柔らかな砂浜ではなく、冷たくて粗い礫浜だった。 波の音は思っていたような癒しを与えてはくれず、むしろ心の奥にある葛藤をより鮮明に浮かび上がらせた。<br>砕けて散る白い波しぶきを見つめながら、そこには「帰ってきた」という安心感と、言葉にしがたい哀愁、そしてどこか怠惰でぼんやりとした疲労感が混ざり合っていた。<br>それは逃避でも、安心でもなく、 ただ潮にゆっくりと包まれるようなまどろみだった。 感情は海面に揺られながら、力なく、それでも確かに、流れていた。
   </p>
 
   <div  class="gallery-wrapper">
@@ -184,7 +218,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/5/Chuang-Yu-Bao-Dan_Zhu-Shi-Jue.jpg" alt="&quot;The Bed and the Bomb”" />
-                    床與爆彈 互動裝置/依場地而定/2022年 木材、氣球、鯊魚玩偶、床具組、馬達、Arduino、雙足模型 Interactive Installation / dimension variable / 2022 Materials: Wood,&hellip;
+                    床與爆彈 互動裝置/ 木材、 氣球、鯊魚玩偶、床具組、馬達、Arduino、雙足模型 / 依場地而定 / 2022年&nbsp; 各種煩惱與壓力像是氣球一樣，我們恐懼它發展到某一刻會爆炸，擔心糟糕的事情會發 生，但它終究是個氣球。床則是讓人最能卸下戒心、最赤裸的場域，在溫暖織品的包圍 下，人得以暫時 避外界的紛擾，得到安心感並滿足人的基本需求。&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -196,20 +230,28 @@
     </h2>
 
   <p>
-    互動裝置/依場地而定/2022年<br>木材、氣球、鯊魚玩偶、床具組、馬達、Arduino、雙足模型
-  </p>
-
-  <p>
-    Interactive Installation / dimension variable / 2022<br>Materials: Wood, balloons, shark plush toys, bedding set, motors, Arduino, bipedal models
+    互動裝置/ 木材、 氣球、鯊魚玩偶、床具組、馬達、Arduino、雙足模型 / 依場地而定 / 2022年&nbsp;
   </p>
 
     <blockquote class="blockquote">
-      「雖然睡一場好覺不能幫我拆炸彈，但睡醒後我會更有力氣去面對它。」<br>"Although a good night's sleep can't help me defuse a bomb,<br>but waking up refreshed gives me the strength to face it."<br>
+      雖然睡一場好覺不能幫我拆炸彈，但睡醒後我會更有力氣去面對它。<br>
     </blockquote>
 
   <p>
-    <br>各種煩惱與壓力像是氣球一樣，我們恐懼它發展到某一刻會爆炸，擔心糟糕的事情會發 生，但它終究是個氣球。床則是讓人最能卸下戒心、最赤裸的場域，在溫暖織品的包圍 下，人得以暫時 避外界的紛擾，得到安心感並滿足人的基本需求。<br>這件作品使用許多人的床伴、溫暖的燈光、尋求安心感的重複動作，將日常中能讓人感到 平靜、溫暖的物件提取出來，與我們想像中危險的氣球結合，表現出在幽微的不安中尋求安心，並維持一種微妙的平衡與平行狀態。
+    各種煩惱與壓力像是氣球一樣，我們恐懼它發展到某一刻會爆炸，擔心糟糕的事情會發 生，但它終究是個氣球。床則是讓人最能卸下戒心、最赤裸的場域，在溫暖織品的包圍 下，人得以暫時 避外界的紛擾，得到安心感並滿足人的基本需求。<br>這件作品使用許多人的床伴、溫暖的燈光、尋求安心感的重複動作，將日常中能讓人感到 平靜、溫暖的物件提取出來，與我們想像中危險的氣球結合，表現出在幽微的不安中尋求安心，並維持一種微妙的平衡與平行狀態。<br>
   </p>
+
+    <h4 id="the-bed-and-the-bomb">
+      The Bed and  the Bomb
+    </h4>
+
+  <p>
+    Interactive installation / Wood, balloons, plush shark, bedding set, motor, Arduino, bipedal model / Site-specific / 2022
+  </p>
+
+    <blockquote class="blockquote">
+      A good night's sleep won’t defuse the bomb, but when I wake up, I’ll have more strength to face it.
+    </blockquote>
 
   <p>
     Various worries and pressures are like balloons, and we fear that they will explode at some point, worrying that something bad will happen. However, it is ultimately just a balloon. The bed is the most intimate and vulnerable space, where, surrounded by warm fabrics, one can temporarily escape the disturbances of the outside world, find a sense of peace, and satisfy basic human needs.
@@ -217,6 +259,26 @@
 
   <p>
     This artwork incorporates people's bed companions, warm lighting, and repetitive actions seeking a sense of security. It extracts objects from daily life that bring tranquility and warmth, combining them with the imagined danger of balloons. It portrays seeking comfort in subtle discomfort and maintaining a delicate balance and parallel state.
+  </p>
+
+    <h4 id="betudotobao-dan">
+      ベッドと爆弾
+    </h4>
+
+  <p>
+    インタラクティブ・インスタレーション / 木材、風船、サメのぬいぐるみ、寝具セット、モーター、Arduino、両足モデル / 会場により異なる / 2022年
+  </p>
+
+    <blockquote class="blockquote">
+      ぐっすり眠ることで爆弾は解体できないけど、 起きたとき、もっとちゃんと向き合える力がある気がする。
+    </blockquote>
+
+  <p>
+    悩みやプレッシャーは風船のようなもの。いつか破裂するのではないかと私たちは怯え、何か最悪のことが起こるのではと不安になる。けれど、それは所詮「風船」でしかない。ベッドとは、人が最も無防備になれる場所。あたたかな布に包まれて、一時的に外界から解放され、安心感と基本的な欲求が満たされる空間である。
+  </p>
+
+  <p>
+    この作品では、ぬいぐるみ、柔らかな光、安心感を求める反復的な動作など、人が日常のなかで心を落ち着かせるための要素を取り出し、風船という「破裂の可能性を含む存在」と組み合わせることで、かすかな不安のなかで安心を求める姿、そしてその中にある絶妙なバランスや並行状態を可視化している。
   </p>
 
   <div  class="gallery-wrapper">
@@ -265,7 +327,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/4/Fei-XingLuo-Xia_Shi-Ti.jpg" alt="&quot;Flying / Falling”" />
-                    飛行/落下 虛擬實境 / 依場地而定 / 2022年 木材、Unreal Engine、Oculus Quest2 Virtual Reality /&hellip;
+                    飛行/落下 虛擬實境 / 木材、Unreal Engine、Oculus Quest2 / 依場地而定 / 2022年&nbsp; 此作品藉由跳樓的想像過程，使觀者在飛行與落下間徘徊，透過觀看方向的改變感受其異同之處。所謂的方向也從來都不客觀明確，但是，若我們預設了地面的位置與重力，所有的飛行都將成為落下。意即同一件事情會因為我們自己預設的視角或立場，而改變我們賦予它的意義，也呼應「控制重心」 (&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -277,19 +339,47 @@
     </h2>
 
   <p>
-    虛擬實境 / 依場地而定 / 2022年<br>木材、Unreal Engine、Oculus Quest2
-  </p>
-
-  <p>
-    Virtual Reality / dimension variable / 2022<br>Wood, Unreal Engine, Oculus Quest 2
+    虛擬實境 / 木材、Unreal Engine、Oculus Quest2 / 依場地而定 / 2022年&nbsp;
   </p>
 
     <blockquote class="blockquote">
-      「落下，是往地面的飛行。飛行，是往遠方的落下。」<br>"Falling is a flying towards the ground. Flying is a falling towards the distance."<br>
+      落下，是往地面的飛行。飛行，是往遠方的落下。<br>
     </blockquote>
 
   <p>
-    此作品藉由跳樓的想像過程，使觀者在飛行與落下間徘徊，透過觀看方向的改變感受其異同之處。所謂的方向也從來都不客觀明確，但是，若我們預設了地面的位置與重力，所有的飛行都將成為落下。意即同一件事情會因為我們自己預設的視角或立場，而改變我們賦予它的意義，也呼應「控制重心(Locus of control)」決定了人對事件的結果歸因於自身控制的行為或是外部因素的影響。<br>This artwork explores the imaginative process of falling, inviting viewers to hover between flight and descent, experiencing the differences through changes in their perspective. The concept of direction is inherently subjective and ambiguous, yet when we establish the position of the ground and the force of gravity, every flight becomes a descent. This suggests that the meaning we attribute to the same action can change based on our predetermined perspective or standpoint. It resonates with the idea of 'Locus of Control,' where individuals attribute the outcome of events to either their controlled actions or external influences."
+    此作品藉由跳樓的想像過程，使觀者在飛行與落下間徘徊，透過觀看方向的改變感受其異同之處。所謂的方向也從來都不客觀明確，但是，若我們預設了地面的位置與重力，所有的飛行都將成為落下。意即同一件事情會因為我們自己預設的視角或立場，而改變我們賦予它的意義，也呼應「控制重心」 ( Locus of control ) 決定了人對事件的結果歸因於自身控制的行為或是外部因素的影響。
+  </p>
+
+    <h4 id="flying-falling">
+      Flying / Falling
+    </h4>
+
+  <p>
+    Virtual Reality / Wood, Unreal Engine, Oculus Quest 2 / Site-specific / 2022<br>
+  </p>
+
+    <blockquote class="blockquote">
+      Falling is flying toward the ground. Flying is falling toward the distance.
+    </blockquote>
+
+  <p>
+    This work explores the imagined experience of jumping from a height, inviting the viewer to hover between the sensations of flying and falling. By shifting their gaze, participants perceive the similarities and contrasts between the two.<br>Direction, after all, is never truly objective. Once we assume the position of the ground and the presence of gravity, every act of flight becomes an act of falling. This suggests that meaning is shaped by the perspectives and positions we take—what seems like flying to one may be falling to another.<br>It also reflects the psychological concept of locus of control: whether individuals attribute outcomes to their own actions or to external forces. How we frame an experience determines how we understand it.
+  </p>
+
+    <h4 id="fei-xingluo-xia">
+      飛行／落下
+    </h4>
+
+  <p>
+    VR / 木材、Unreal Engine、Oculus Quest 2 / 会場により異なる / 2022年
+  </p>
+
+    <blockquote class="blockquote">
+      落下とは、地面へ向かう飛行である。 飛行とは、遠くへ向かう落下である。
+    </blockquote>
+
+  <p>
+    本作は、高所から飛び降りるという想像行為を通して、 鑑賞者が「飛行」と「落下」のあいだを揺れ動くような感覚を体験する作品である。 視線の方向を変えることによって、両者の類似と差異が浮かび上がってくる。<br>そもそも「方向」というものは、決して客観的で明確なものではない。 もし私たちが「地面」という位置や「重力」の存在を前提とするならば、 すべての飛行は、落下となるだろう。<br>つまり、同じ出来事であっても、 自分がどの視点・立場をとるかによって、その意味づけは変わっていく。 これは心理学における「コントロールの所在（locus of control）」、 すなわち、物事の結果を自分の行動に起因させるか、外的要因に求めるかという概念にもつながっている。
   </p>
 
   <div  class="gallery-wrapper">
@@ -321,6 +411,18 @@
   <p>
     <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CeXEA2duTeA?si=0cUClthW4VG5GML6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
   </p>
+
+  <p>
+    觀者需登上階梯，並佩戴頭戴顯示器進入虛擬世界。在虛擬實境中中，觀者初始於虛擬展場的場域，當其低頭凝視時，虛擬世界隨之展開了一段墜落於高樓間的體驗；而當觀者於墜落過程中抬起頭向上看時，則會感受到自己正向遠方飛行。這種身體感知的轉換，隨著視線方向的改變而切換，讓落下與飛行的界限變得模糊且可變。當觀者的墜落或飛行持續至一定時間後，虛擬世界中的時間將倒轉，直至回歸至起點——虛擬展場內的木製階梯之上。這種循環的結構模糊了起點與終點，也彷彿一切從未發生過。<br>整體的體驗時長約為一分半鐘。
+  </p>
+
+  <p>
+    To begin the experience, the viewer must ascend a wooden staircase and put on a VR headset to enter the virtual world. The journey begins inside a digital exhibition space. When the viewer looks downward, the virtual environment responds by initiating a fall between tall buildings.<br>During this fall, if the viewer tilts their head upward and gazes toward the sky, the sensation transforms—they now feel as if they are flying into the distance. This embodied transition, triggered by changes in viewing direction, blurs the boundary between falling and flying, rendering both states interchangeable and unstable.<br>When the fall or flight continues for a certain duration, the flow of time in the virtual space begins to reverse, eventually returning the viewer to the point of origin: standing once again on the wooden staircase inside the virtual gallery. This cyclical structure dissolves the distinction between beginning and end, creating a sensation as if nothing ever happened.<br>The entire experience lasts approximately 90 seconds.
+  </p>
+
+  <p>
+    体験は、木製の階段を上り、VRヘッドセットを装着するところから始まる。 観者はまず、バーチャルな展覧空間に降り立つ。そこで下を見下ろすと、仮想世界が反応し、高層ビルのあいだを落下する体験が始まる。<br>落下の最中に顔を上げて上空を見上げると、今度は自分が遠くへ飛んでいくような感覚へと変化する。 この身体感覚の転換は、視線の方向によって切り替わり、「落下」と「飛行」の境界を曖昧で可変的なものにする。<br>一定時間の落下／飛行のあと、仮想空間の時間は逆行を始め、最終的に出発点である展覧空間の木製階段の上へと戻ってくる。 この循環構造は、始まりと終わりの区別を曖昧にし、まるで「何も起きなかった」かのような感覚を残す。<br>全体の体験時間はおよそ90秒間である。
+  </p>
             ]]>
         </content>
     </entry>
@@ -338,35 +440,63 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/1/Jie-Tu-2023-02-25-15.52.57.png" alt="&quot;It’s Fine”" />
-                    可以了 互動裝置 / 50*50*1.5cm / 2021 木材、Arduino、馬達、距離感測器 Interactive Installation / 50*50*1.5cm /&hellip;
+                    可以了 互動裝置 / 木材、Arduino、馬達、距離感測器 / 50*50*1.5cm / 2021 年 完美主義者不斷追求不現實的目標，如試圖接近這個圓。而驅使自己達成不現實的目標常常會帶來罪惡感、自卑感以及焦慮。也如物極必反的道理，追求到達到極致完美，往往招致痛苦。 我們以這件作品再現這個過程，提醒觀也提醒創作者本身是否過於鑽牛角尖，適當學習接受不完美的好，告訴自己，可以了。 造型設計：游覺輔 程式設計：陳彥霖&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/1/Jie-Tu-2023-02-25-15.52.57.png" class="type:primaryImage" alt="&quot;It’s Fine”" /></p>
                 
-    <h2 id="ke-yi-liao">
+    <h4 id="ke-yi-liao">
       可以了
-    </h2>
+    </h4>
 
   <p>
-    互動裝置 / 50*50*1.5cm / 2021<br>木材、Arduino、馬達、距離感測器
-  </p>
-
-  <p>
-    Interactive Installation / 50*50*1.5cm / 2021<br>Wood, Arduino, Motors, Distance Sensor
+    互動裝置 / 木材、Arduino、馬達、距離感測器 /  50*50*1.5cm / 2021 年
   </p>
 
     <blockquote class="blockquote">
-      「真正的圓形只存在於數學定義之中。」<br>"The true circle only exists in mathematical definitions."<br>
+      「真正的圓形只存在於數學定義之中。」<br>
     </blockquote>
 
   <p>
-    &nbsp;完美主義者不斷追求不現實的目標，如試圖接近這個圓。而驅使自己達成不現實的目標常常會帶來罪惡感、自卑感以及焦慮。也如物極必反的道理，追求到達到極致完美，往往招致痛苦。 我們以這件作品再現這個過程，提醒觀也提醒創作者本身是否過於鑽牛角尖，適當學習接受不完美的好，告訴自己，可以了。<br>Perfectionists constantly pursue unrealistic goals, attempting to get closer to this ideal circle. However, striving for unreal perfection often brings about feelings of guilt, inferiority, and anxiety. As the saying goes, the pursuit of extreme perfection often leads to suffering.<br>We recreate this process with this artwork, reminding both the audience and the creators themselves whether they are getting too caught up in trivial details. It encourages learning to accept imperfection appropriately and reassuring oneself, saying, "Okay, it's Fine."
+    完美主義者不斷追求不現實的目標，如試圖接近這個圓。而驅使自己達成不現實的目標常常會帶來罪惡感、自卑感以及焦慮。也如物極必反的道理，追求到達到極致完美，往往招致痛苦。 我們以這件作品再現這個過程，提醒觀也提醒創作者本身是否過於鑽牛角尖，適當學習接受不完美的好，告訴自己，可以了。
   </p>
 
   <p>
-    游覺輔、商睿庭、陳彥霖
+    造型設計：游覺輔<br>程式設計：陳彥霖<br>機構組裝：商睿庭<br>影像整合：游覺輔
+  </p>
+
+    <h4 id="its-enough">
+      It’s Enough
+    </h4>
+
+  <p>
+    Interactive installation / Wood, Arduino, motor, distance sensor / 50 × 50 × 1.5 cm / 2021
+  </p>
+
+    <blockquote class="blockquote">
+      "The true circle only exists in mathematical definitions."
+    </blockquote>
+
+  <p>
+    Perfectionists constantly pursue unrealistic goals, attempting to get closer to this ideal circle. However, striving for unreal perfection often brings about feelings of guilt, inferiority, and anxiety. As the saying goes, the pursuit of extreme perfection often leads to suffering.<br>We recreate this process with this artwork, reminding both the audience and the creators themselves whether they are getting too caught up in trivial details. It encourages learning to accept imperfection appropriately and reassuring oneself, saying, "Okay, it's Fine."Design: Yu Chueh-Fu <br>Programming: Chen Yen-Lin <br>Mechanical Assembly: Shang Rui-Ting <br>Video Integration: Yu Chueh-Fu＝
+  </p>
+
+    <h4 id="mouiiyo">
+      もういいよ
+    </h4>
+
+  <p>
+    インタラクティブ・インスタレーション / 木材、Arduino、モーター、距離センサー / 50 × 50 × 1.5 cm / 2021年
+  </p>
+
+    <blockquote class="blockquote">
+      「本当の円は、数学的定義の中にしか存在しない。」
+    </blockquote>
+
+  <p>
+    完璧主義者は、理想的な円に近づこうとするかのように、 現実には存在しない目標を追い求め続ける。 しかしその努力はしばしば、罪悪感や劣等感、不安をもたらす。 「物極まれば必ず反する」というように、 完璧を目指すほど、苦しみに近づいていく。<br>この作品は、そのプロセスを可視化する装置である。 鑑賞者にとっても、制作者にとっても、 「なぜそこまで求めるのか」と自問するための契機となる。 不完全さを受け入れることの優しさを思い出し、 そっと「もういいよ」と自分に言えるように。<br><br>造形デザイン：游覺輔（Yu Chueh-Fu） <br>プログラム設計：陳彥霖（Chen Yen-Lin） <br>機構組み立て：商睿庭（Shang Rui-Ting） <br>映像統合：游覺輔（Yu Chueh-Fu）<br>
   </p>
 
   <div  class="gallery-wrapper">
@@ -420,23 +550,43 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou.jpeg" alt="不置可否" />
-                    不置可否 油畫 / 91*72.5cm&nbsp; / 2020 畫布、油彩 Oil painting / 91*72.5cm /&hellip;
+                    不置可否 油畫 / 91 × 72.5 cm / 2020年 當「我支持你」成了不必要的話語， 當惡意不再流竄於我們之間， 當我們喜歡任何性別都不再受到贊成或反對的聲浪， 當我們不再被貼上標籤， 那時，才是真正的平等。 而在那之前， 我們先繼續保持驕傲吧。 Oil on&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/7/12Bu-Zhi-Ke-Fou.jpeg" class="type:primaryImage" alt="不置可否" /></p>
                 
-    <h2 id="bu-zhi-ke-fou">
+    <h4 id="bu-zhi-ke-fou">
       不置可否
-    </h2>
+    </h4>
 
   <p>
-    <br><br>油畫 / 91*72.5cm&nbsp; / 2020<br>畫布、油彩
+    油畫 / 91 × 72.5 cm / 2020年<br><br>當「我支持你」成了不必要的話語， 當惡意不再流竄於我們之間， 當我們喜歡任何性別都不再受到贊成或反對的聲浪， 當我們不再被貼上標籤， 那時，才是真正的平等。 而在那之前， 我們先繼續保持驕傲吧。<br>
+  </p>
+
+    <h4 id="neither-approval-nor-denial">
+      Neither Approval Nor Denial
+    </h4>
+
+  <p>
+    Oil on canvas / 91 × 72.5 cm / 2020
   </p>
 
   <p>
-    Oil painting / 91*72.5cm  / 2020<br>canva, oilpainting<br>
+    When “I support you” becomes an unnecessary phrase, When malice no longer flows between us, When loving any gender is met with neither approval nor objection, When labels are no longer placed upon us— That will be true equality. Until then, Let us keep holding on to our pride.<br>
+  </p>
+
+    <h4 id="shi-tomofou-tomoyan-wazunilessbrgreater">
+      是とも否とも言わずに<br>
+    </h4>
+
+  <p>
+    油彩 / 91 × 72.5 cm / 2020年<br>
+  </p>
+
+  <p>
+    「あなたを支持する」という言葉が、もはや必要でなくなったとき、 悪意が私たちのあいだを流れなくなったとき、 どんな性別を愛しても、賛成や反対の声がなくなったとき、 私たちにラベルが貼られなくなったとき—— そのときこそが、本当の平等だろう。 それまでは、 どうか、誇りを持ち続けよう。<br>
   </p>
 
     <figure class="post__image post__image--center">
@@ -460,19 +610,35 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/11/20200531_114821.jpeg" alt="地下室的傳說" />
-                    地下室的傳說 素描 / 104*176cm&nbsp; / 2020
+                    地下室的傳說 炭筆、素描紙 / 78.8cm x 109.1 cm / 2020年 Charcoal on drawing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/11/20200531_114821.jpeg" class="type:primaryImage" alt="地下室的傳說" /></p>
                 
-    <h2 id="di-xia-shi-de-chuan-shuo">
+    <h4 id="di-xia-shi-de-chuan-shuo">
       地下室的傳說
-    </h2>
+    </h4>
 
   <p>
-    <br>素描 / 104*176cm&nbsp; / 2020<br>
+    炭筆、素描紙 / 78.8cm x 109.1 cm / 2020年<br>
+  </p>
+
+    <h4 id="the-legend-of-the-basement">
+      The Legend of the Basement
+    </h4>
+
+  <p>
+    Charcoal on drawing paper / 78.8 × 109.1 cm / 2020<br>
+  </p>
+
+    <h4 id="di-xia-shi-nochuan-shuo">
+      地下室の伝説
+    </h4>
+
+  <p>
+    木炭、ドローイングペーパー / 78.8 × 109.1 cm / 2020年<br>
   </p>
 
     <figure class="post__image post__image--center">
@@ -496,19 +662,59 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/12/12You-Hua-Jing-Zi-2.jpeg" alt="那些無法銘記過去的人" />
-                    那些無法銘記過去的人 油畫 / 116.5*91cm&nbsp; / 2019
+                    那些無法銘記過去的人 油彩、帆布、鏡子 / 116.5 × 91.0 cm，2019年 勝利女神沈思著…所謂「勝利」究竟是什麼？ 但祂永遠都不會想出答案，不是因為沒有答案，而是因為祂的頭不見了。 Oil on canvas,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/12/12You-Hua-Jing-Zi-2.jpeg" class="type:primaryImage" alt="那些無法銘記過去的人" /></p>
                 
-    <h2 id="na-xie-wu-fa-ming-ji-guo-qu-de-ren">
+    <h4 id="na-xie-wu-fa-ming-ji-guo-qu-de-ren">
       那些無法銘記過去的人
-    </h2>
+    </h4>
 
   <p>
-    <br>油畫 / 116.5*91cm&nbsp; / 2019<br>
+    油彩、帆布、鏡子 / 116.5 × 91.0 cm，2019年<br>
+  </p>
+
+    <blockquote class="blockquote">
+      那些無法銘記過去的人，必將重蹈覆徹。<br>
+    </blockquote>
+
+  <p>
+    勝利女神沈思著…所謂「勝利」究竟是什麼？<br>但祂永遠都不會想出答案，不是因為沒有答案，而是因為祂的頭不見了。<br>
+  </p>
+
+    <h4 id="those-who-cannot-remember-the-past">
+      Those Who Cannot Remember the Past
+    </h4>
+
+  <p>
+    Oil on canvas, mirror / 116.5 × 91.0 cm / 2019<br><br>
+  </p>
+
+    <blockquote class="blockquote">
+      Those who cannot remember the past are doomed to repeat it.
+    </blockquote>
+
+  <p>
+    The goddess of victory sits in contemplation… But what, truly, is “victory”? She will never find the answer—not because there is none, but because her head is gone.<br>
+  </p>
+
+    <h4 id="guo-qu-woji-yi-dekinaizhe-ha">
+      過去を記憶できない者は
+    </h4>
+
+  <p>
+    油彩、キャンバス、鏡 / 116.5 × 91.0 cm / 2019年
+  </p>
+
+    <blockquote class="blockquote">
+      過去を記憶できない者は、それを繰り返す運命にある。
+    </blockquote>
+
+  <p>
+    勝利の女神は沈思している──「勝利」とは一体、何なのだろうか。 けれども彼女が答えを見つけることは決してない。 答えが存在しないからではなく、彼女の頭が、そこにないからだ。<br>
   </p>
 
     <figure class="post__image post__image--center">
@@ -532,23 +738,79 @@
             <summary>
                 <![CDATA[
                         <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die-2.jpeg" alt="夜有所夢" />
-                    夜有所夢 水墨 / 90*180cm&nbsp; / 2019
+                    夜有所夢 水墨、礦物顏料、樊宣紙本 / 90 x 180 cm / 2018年 Ink and mineral&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die-2.jpeg" class="type:primaryImage" alt="夜有所夢" /></p>
                 
-    <h2 id="ye-you-suo-meng">
+    <h4 id="ye-you-suo-meng">
       夜有所夢
-    </h2>
+    </h4>
 
   <p>
-    <br>水墨 / 90*180cm&nbsp; / 2019<br>
+    水墨、礦物顏料、樊宣紙本 / 90 x 180 cm / 2018年<br>
+  </p>
+
+    <h4 id="dreams-in-the-night">
+      Dreams in the Night
+    </h4>
+
+  <p>
+    Ink and mineral pigments on Fanxuan paper / 90 × 180 cm / 2018<br>
+  </p>
+
+    <h4 id="ye-nijian-rumeng">
+      夜に見る夢
+    </h4>
+
+  <p>
+    墨、岩絵具、樊宣紙 / 90 × 180 cm / 2018年<br>
   </p>
 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/10/12Hu-Die.jpeg" height="4990" width="2701" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-xs.jpeg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-sm.jpeg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-md.jpeg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/10/responsive/12Hu-Die-lg.jpeg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Drowning in Plastic</title>
+        <author>
+            <name>Jefffyu</name>
+        </author>
+        <link href="https://Jefff-yu.github.io/Jefffyu/homepage-7.html"/>
+        <id>https://Jefff-yu.github.io/Jefffyu/homepage-7.html</id>
+        <media:content url="https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang-2.jpeg" medium="image" />
+            <category term="Fine-Art"/>
+
+        <updated>2018-10-26T17:35:00+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang-2.jpeg" alt="Drowning in Plastic" />
+                    Drowning in Plastic 壓克力板雷射雕刻、油墨、素描紙 / 52 x 76 cm / 2018 Laser-engraved&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang-2.jpeg" class="type:primaryImage" alt="Drowning in Plastic" /></p>
+                
+    <h2 id="drowning-in-plastic">
+      Drowning in Plastic
+    </h2>
+
+  <p>
+    壓克力板雷射雕刻、油墨、素描紙 / 52 x 76 cm / 2018
+  </p>
+
+  <p>
+    Laser-engraved acrylic plate, ink on drawing paper / 52 × 76 cm / 2018<br><br>アクリル板（レーザー彫刻）、インク、ドローイングペーパー / 52 × 76 cm / 2018年<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://Jefff-yu.github.io/Jefffyu/media/posts/9/12Yuan-Su-Hai-Yang.jpeg" height="4926" width="3444" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-xs.jpeg 300w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-sm.jpeg 480w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-md.jpeg 768w ,https://Jefff-yu.github.io/Jefffyu/media/posts/9/responsive/12Yuan-Su-Hai-Yang-lg.jpeg 1024w">
       
     </figure>
             ]]>
